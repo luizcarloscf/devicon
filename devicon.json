@@ -465,6 +465,32 @@
         "aliases": []
     },
     {
+        "name": "apacheaignite",
+        "altnames": [],
+        "tags": [
+            "database",
+            "open-source"
+        ],
+        "versions": {
+            "svg": [
+                "original",
+                "original-wordmark",
+                "plain-wordmark"
+            ],
+            "font": [
+                "original",
+                "plain-wordmark"
+            ]
+        },
+        "color": "#ed1c24",
+        "aliases": [
+            {
+                "base": "original",
+                "alias": "plain"
+            }
+        ]
+    },
+    {
         "name": "apachekafka",
         "altnames": [],
         "tags": [
